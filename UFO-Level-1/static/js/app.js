@@ -6,7 +6,6 @@ var tbody = d3.select("tbody")
 // console.log(data);
 
 
-
 // Step 1: Use d3 to append one table row 'tr' for each UFO sighting object
 
 data.forEach((UFOSighting) => {
