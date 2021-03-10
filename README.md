@@ -14,4 +14,4 @@
 
 ### Level 2: Multiple Search Categories (Optional)
 
-Optional.  Played around with it a lot, but ultimately ran of out time without being to getting it to work.
+Optional.  Played around with it a lot, but ultimately ran of out time.
