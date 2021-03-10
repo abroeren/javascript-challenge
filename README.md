@@ -2,7 +2,7 @@
 
 ### Task
 
-### Level 1: Automatic Table and Date Search (Required)
+### Level 1: Automatic Table and Date Search (Required) - COMPLETED
 
 * Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
 
